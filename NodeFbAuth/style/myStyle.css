@@ -1,0 +1,13 @@
+.well{
+    overflow: auto;
+}
+
+.profilePictureContainer{
+    float: left;
+    margin-right: 2%;
+}
+
+.profilePictureContainer > img{
+    max-height: 150px;
+    max-width: 150px;
+}
